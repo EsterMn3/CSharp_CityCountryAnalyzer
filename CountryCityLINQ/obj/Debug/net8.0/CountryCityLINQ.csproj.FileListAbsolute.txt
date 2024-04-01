@@ -1,0 +1,14 @@
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\CountryCityLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\CountryCityLINQ.AssemblyInfoInputs.cache
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\CountryCityLINQ.AssemblyInfo.cs
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\CountryCityLINQ.csproj.CoreCompileInputs.cache
+C:\Users\hp\C#projects\CountryCityLINQ\bin\Debug\net8.0\CountryCityLINQ.exe
+C:\Users\hp\C#projects\CountryCityLINQ\bin\Debug\net8.0\CountryCityLINQ.deps.json
+C:\Users\hp\C#projects\CountryCityLINQ\bin\Debug\net8.0\CountryCityLINQ.runtimeconfig.json
+C:\Users\hp\C#projects\CountryCityLINQ\bin\Debug\net8.0\CountryCityLINQ.dll
+C:\Users\hp\C#projects\CountryCityLINQ\bin\Debug\net8.0\CountryCityLINQ.pdb
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\CountryCityLINQ.dll
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\refint\CountryCityLINQ.dll
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\CountryCityLINQ.pdb
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\CountryCityLINQ.genruntimeconfig.cache
+C:\Users\hp\C#projects\CountryCityLINQ\obj\Debug\net8.0\ref\CountryCityLINQ.dll
